@@ -1,0 +1,12 @@
+.breadcrumb-item+.breadcrumb-item::before{
+    content:">";
+}
+.table_price{
+    background: linear-gradient( to top, #e0e0e0 0%, #f0f0f0 100%);
+}
+.count_input{
+    width:15px;
+    border:0;
+    outline: 0;
+    text-align: center;
+}
